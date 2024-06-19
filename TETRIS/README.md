@@ -1,2 +1,0 @@
-# Tetris
-using pygame library
